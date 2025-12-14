@@ -1,0 +1,20 @@
+[
+    {
+        "amount": "100",
+        "category": "food",
+        "event_date": "2025-02-23",
+        "description": "test"
+    },
+    {
+        "amount": "101",
+        "category": "petrol",
+        "event_date": "2025-1-23",
+        "description": "test2"
+    },
+    {
+        "amount": "101",
+        "category": "rental",
+        "event_date": "2025-02-23",
+        "description": "test3"
+    }
+]
